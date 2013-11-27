@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AnimationScripts\Move_UpandDown.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AnimationScripts\AnimateTexture.cs" Line="83" Column="46" />
+      <File FileName="Assets\Scripts\CharacterMovement.cs" Line="15" Column="33" />
+      <File FileName="Assets\Scripts\AnimationScripts\Move_UpandDown.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
