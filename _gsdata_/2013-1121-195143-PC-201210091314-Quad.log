@@ -1,0 +1,19 @@
+2013-11-21 19:51:44: xiaobai.wheatup.goodsync is this computer, so to speed up transfer you should access its files via My Computer tab of Browse dialog
+2013-11-21 19:51:44: ----- ：任务 'Quad'：计算机 'PC-201210091314' 上的分析操作已由 User 所启动 (GoodSync v 9.5.3.3) -----
+2013-11-21 19:51:44: F:\MyFirstGame <-> gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame
+2013-11-21 19:51:44: 左侧: State file does not exist: F:\MyFirstGame\_gsdata_\_file_state._gs
+2013-11-21 19:51:44: 左侧: 未发现状态文件，新建状态文件
+2013-11-21 19:51:44: 左侧：文件： 360 (已排除 148)。文件夹： 277 (已排除 )。 F: NTFS, 可用空间：203 GB，总计空间：292 GB
+2013-11-21 19:51:44: 右侧: State file does not exist: gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame/_gsdata_/_file_state._gs
+2013-11-21 19:51:44: 右侧: 未发现状态文件，新建状态文件
+2013-11-21 19:51:44: 右侧：文件： 360 (已排除 148)。文件夹： 277 (已排除 )。 PC-201210091314 F: NTFS, 可用空间：203 GB，总计空间：292 GB
+2013-11-21 19:51:44: 变更：， 冲突：， 复制时间：， 复制状态：/637， 错误： 
+2013-11-21 19:51:44: ----- ：分析已结束。 历时 00:00:01， 速度： 785 个文件/秒 -----
+2013-11-21 19:51:44: 
+2013-11-21 19:51:51: xiaobai.wheatup.goodsync is this computer, so to speed up transfer you should access its files via My Computer tab of Browse dialog
+2013-11-21 19:51:51: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2013-11-21 19:51:51: ===== ：任务 'Quad'：同步已被 User 所启动，位于计算机 'PC-201210091314' =====
+2013-11-21 19:51:51: F:\MyFirstGame <-> gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame
+2013-11-21 19:51:51: Error locking folder: Locking the already locked folder: means syncing folder with itself or its parent.
+'gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame' same as or parent/child of 'F:\MyFirstGame'
+2013-11-21 19:51:51: 

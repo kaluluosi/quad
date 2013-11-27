@@ -1,0 +1,17 @@
+2013-11-21 20:00:13: xiaobai.wheatup.goodsync is this computer, so to speed up transfer you should access its files via My Computer tab of Browse dialog
+2013-11-21 20:00:13: ----- ：任务 'Quad'：计算机 'PC-201210091314' 上的分析操作已由 User 所启动 (GoodSync v 9.5.3.3) -----
+2013-11-21 20:00:13: E:\MyFirstGame <-> gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame
+2013-11-21 20:00:13: 左侧：文件： 345 (已排除 148)。文件夹： 275 (已排除 1)。 E: NTFS, 可用空间：141 GB，总计空间：292 GB
+2013-11-21 20:00:13: 右侧：文件： 345 (已排除 148)。文件夹： 275 (已排除 1)。 PC-201210091314 F: NTFS, 可用空间：203 GB，总计空间：292 GB
+2013-11-21 20:00:13: 变更：1， 冲突：， 复制时间：， 复制状态：/， 错误： 
+2013-11-21 20:00:13: Right to Left: Copy File: 1 
+2013-11-21 20:00:13: ----- ：分析已结束。 历时 00:00:01， 速度： 769 个文件/秒 -----
+2013-11-21 20:00:13: 
+2013-11-21 20:00:17: xiaobai.wheatup.goodsync is this computer, so to speed up transfer you should access its files via My Computer tab of Browse dialog
+2013-11-21 20:00:17: ===== ：任务 'Quad'：同步已被 User 所启动，位于计算机 'PC-201210091314' =====
+2013-11-21 20:00:17: E:\MyFirstGame <-> gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame
+2013-11-21 20:00:17: 覆盖复制 'gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame/MyFirstGame.userprefs' -> 'E:\MyFirstGame\MyFirstGame.userprefs'
+2013-11-21 20:00:17: 保存状态文件 gstp://xiaobai.wheatup.goodsync/file:///F:/MyFirstGame/_gsdata_/_file_state_v4._gs
+2013-11-21 20:00:17: 项目同步未必： 1，错误： 
+2013-11-21 20:00:17: ===== ：同步完毕。时间：00:00:01，速度： 12.2 KB/s (13.9 KB/s) =====
+2013-11-21 20:00:17: 
