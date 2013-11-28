@@ -6,25 +6,30 @@
 using UnityEngine;
 using System.Collections;
 
-public class BGM : GameMaster 
+public class BGM : GameMaster
 {
-	public bool bgmActive;
-	public void GetBGM()
-	{
-		if(_GameData.BGMActive == 0)
-			bgmActive = false;
-		else
-			bgmActive = true;
+		public bool bgmActive;
+		public void GetBGM ()
+		{
+				if (_GameData.BGMActive == 0)
+						bgmActive = false;
+				else
+						bgmActive = true;
 
-		if(bgmActive)
-			gameObject.audio.Play();
-		else
-			gameObject.audio.Pause();
-	}
+				if (bgmActive)
+						gameObject.audio.Play ();
+				else
+						gameObject.audio.Pause ();
+		}
 
-	void Start () 
-	{
-		GetBGM();
-	}
+		void Start ()
+		{
+				GetBGM ();
+		}
 
+		void OnGUI ()
+		{
+				//写一段代码试一下！
+				GUILayout.Button ("hehe", GUILayout.Height (50));
+		}
 }
